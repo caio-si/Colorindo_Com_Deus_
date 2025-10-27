@@ -20,13 +20,13 @@ Um aplicativo mobile educativo e interativo de colorir com histórias bíblicas 
 
 - **Livro de Colorir Interativo**: Toque para colorir áreas específicas dos desenhos
 - **Histórias Bíblicas**: 10 histórias bíblicas ilustradas com textos adaptados para crianças
-- **Paleta de Cores**: 16 cores vibrantes para escolher
+- **Paleta de Cores**: 50 cores vibrantes para escolher
 - **Controles de Edição**: Desfazer, refazer e apagar cores
 - **Galeria Pessoal**: Salve e visualize seus desenhos finalizados
 - **Sistema de Recompensas**: Ganhe versículos de prêmio ao completar desenhos
 - **Multi-idioma**: Suporte para Português, Inglês e Espanhol
 - **Modo Escuro**: Interface adaptável para diferentes momentos do dia
-- **Modo Infantil**: Bloqueio parental para maior segurança
+
 
 ### 📖 Histórias Disponíveis
 
@@ -94,23 +94,6 @@ lib/
 - Android Studio / Xcode
 - Dispositivo físico ou emulador
 
-### Instalação
-
-1. Clone o repositório:
-```bash
-git clone [url-do-repositorio]
-cd colorindo_com_deus
-```
-
-2. Instale as dependências:
-```bash
-flutter pub get
-```
-
-3. Execute o aplicativo:
-```bash
-flutter run
-```
 
 ## 🎨 Design
 
@@ -121,23 +104,11 @@ O aplicativo foi projetado com foco em:
 - **Acessibilidade**: Fácil navegação para crianças
 - **Responsividade**: Adaptável a diferentes tamanhos de tela
 
-### Paleta de Cores
-
-- **Primária**: #6C63FF (Roxo)
-- **Secundária**: #FF6584 (Rosa)
-- **Destaque**: #FFD93D (Amarelo)
-- **Fundo**: #F8F9FF (Azul Claro)
-
-## 📱 Capturas de Tela
-
-_Em breve: adicionar screenshots das principais telas_
 
 ## 🔐 Segurança e Privacidade
 
 - Armazenamento local (funciona offline)
-- Modo infantil com bloqueio parental
 - Sem coleta de dados pessoais
-- Sem anúncios ou compras dentro do app
 
 ## 🌍 Internacionalização
 
@@ -146,15 +117,6 @@ Idiomas suportados:
 - 🇺🇸 English (United States)
 - 🇪🇸 Español (España)
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Por favor:
-
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
 
 ## 📄 Licença
 
