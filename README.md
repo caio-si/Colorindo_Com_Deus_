@@ -162,9 +162,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Créditos
 
-- **Desenvolvimento**: Equipe Colorindo com Deus
+- **Desenvolvimento**: Caio da Silva Figueredo
 - **Conteúdo Bíblico**: Adaptado da Bíblia Sagrada
-- **Ilustrações**: Artistas Cristãos
 - **Framework**: Flutter by Google
 
 ## 🙏 Versículo de Inspiração
